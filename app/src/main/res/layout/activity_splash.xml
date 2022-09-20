@@ -18,20 +18,16 @@
             android:textSize="42sp"
             android:textStyle="bold"
             android:textColor="#ffffff"
-            android:layout_marginTop="150dp"
+            android:layout_marginTop="250dp"
             android:layout_gravity="center_horizontal"
             android:text="@string/app_name"/>
 
-        <ImageView
-            android:layout_width="160dp"
-            android:layout_height="160dp"
-            android:src="@drawable/spl_ic"
-            android:layout_gravity="center"/>
+
 
         <ProgressBar
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginBottom="40dp"
+            android:layout_marginBottom="90dp"
             android:theme="@style/ProgressBarTheme"
             android:layout_gravity="center_horizontal|bottom"/>
 
