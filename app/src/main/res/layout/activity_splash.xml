@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/splash"
+    android:orientation="vertical"
+    android:background="@drawable/spl_bg"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/fl_splash">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="42sp"
+            android:textStyle="bold"
+            android:textColor="#ffffff"
+            android:layout_marginTop="150dp"
+            android:layout_gravity="center_horizontal"
+            android:text="@string/app_name"/>
+
+        <ImageView
+            android:layout_width="160dp"
+            android:layout_height="160dp"
+            android:src="@drawable/spl_ic"
+            android:layout_gravity="center"/>
+
+        <ProgressBar
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="40dp"
+            android:theme="@style/ProgressBarTheme"
+            android:layout_gravity="center_horizontal|bottom"/>
+
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/fl_container"/>
+
+
+</FrameLayout>

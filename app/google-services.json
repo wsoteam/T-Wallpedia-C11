@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "712350689586",
+    "project_id": "t-wallpedia-c11",
+    "storage_bucket": "t-wallpedia-c11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712350689586:android:da5df8cd8676d61ecb8f2b",
+        "android_client_info": {
+          "package_name": "com.aleovall.mesaphot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712350689586-28eqpqfqpmdeimrvmouag2sdpr04man1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcKiGkaeyQ0UhfZYbJeK_SjZ9IpxPLCy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712350689586-28eqpqfqpmdeimrvmouag2sdpr04man1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

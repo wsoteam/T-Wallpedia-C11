@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Abobe Edit Pro</string>
+
+
+    <string name="title">title</string>
+    <string name="action_open">Open</string>
+    <string name="action_save">Save</string>
+    <string name="action_share">Share</string>
+    <string name="action_apply">Apply</string>
+    <string name="action_clear">Clear</string>
+    <string name="action_reset">Reset</string>
+    <string name="msg_share_image">Share Image</string>
+
+
+    <string name="facebook_app_id">5750667408286748</string>
+    <string name="fb_login_protocol_scheme">fb5750667408286748</string>
+
+    <string name="appsfl">vtbqPrtwFNJehFqeNzTqH5</string>
+    <string name="amplitude_id">588540f0cc851a16e549254481faa4e7</string>
+</resources>
